@@ -1,0 +1,80 @@
+[
+  {
+    "title": "企业级推荐",
+    "list":[
+      {
+        "h2": "进阶型云服务器",
+        "span": "普通III型",
+        "p": "适用于中量级企业业务及数据处理",
+        "cpu": "4核",
+        "neicun": "8G",
+        "kuandai": "1M",
+        "xitong": "40G",
+        "time": "1年",
+        "zhekou": "3.5折",
+        "yuannian": "1575",
+        "yuanjia": "原价:4500元",
+        "shouxuan": "企业首选"
+      },
+      {
+        "h2": "增强型云服务器",
+        "span": "普通III型",
+        "p": "适用于高性能科学计算和工程应用等场景",
+        "cpu": "8核",
+        "neicun": "8G",
+        "kuandai": "1M",
+        "xitong": "40G",
+        "time": "1年",
+        "zhekou": "4.5折",
+        "yuannian": "2975",
+        "yuanjia": "原价:6612元",
+        "shouxuan": "企业首选"
+      },
+      {
+        "h2": "高性能计算型云服务器 ",
+        "span": "普通III型",
+        "p": "适用于金融级与对数据安全敏感型企业的要求",
+        "cpu": "16核",
+        "neicun": "32G",
+        "kuandai": "1M",
+        "xitong": "40G",
+        "time": "1年",
+        "zhekou": "4.5折",
+        "yuannian": "7727",
+        "yuanjia": "原价:17172元"
+      },
+      {
+        "h2": "GPU云服务器",
+        "span" : "NVIDIA Tesla P4卡",
+        "p": "适用于视觉计算、高性能计算等领域",
+        "cpu": "12核",
+        "neicun": "40G",
+        "kuandai": "8G",
+        "xitong": "450G",
+        "time": "1年",
+        "zhekou": "3.5折",
+        "yuannian": "10140",
+        "yuanjia": "原价:28913元"
+      }
+    ]
+  },
+  {
+    "title": "入门级推荐",
+    "list": [
+      {
+        "h2": "惠普云型云服务器",
+        "span": "普通III型",
+        "p": "适用于中量级企业业务及数据处理",
+        "cpu": "2核",
+        "neicun": "4G",
+        "kuandai": "1M",
+        "xitong": "40G",
+        "time": "1年",
+        "zhekou": "3.5折",
+        "yuannian": "836",
+        "yuanjia": "原价:2388元",
+        "shouxuan": "爆款推荐"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Step.1 视频剪辑加工",
+    "img": "https://bce.bdstatic.com/portal/img/solution/short_video/step-img1_1dab17c4.png",
+    "p": "可在手机端流畅地完成剪辑、拼接、添加滤镜等特效制作，让开发者的app快速获取多种短视频创作玩法的能力 ",
+    "bigImg": "https://bce.bdstatic.com/portal/img/solution/short_video/step1_fff57da1.png"
+  },
+  {
+    "title": "Step.2 视频极速加密上传",
+    "img": "https://bce.bdstatic.com/portal/img/solution/short_video/step-img2_7fde6810.png",
+    "p": "灵活上传，快速转码，并提供高可靠URL防盗链功能保障数字内容安全\n\n相关产品：音视频点播VOD ",
+    "bigImg": "https://bce.bdstatic.com/portal/img/solution/short_video/iphone-step2_d49c406b.png"
+  },
+  {
+    "title": "Step.3 AI自动审核／打标签",
+    "img": "https://bce.bdstatic.com/portal/img/solution/short_video/step-img3_6f60befc.png",
+    "p": "通过多维AI技术，对视频内容进行智能分析。开发者可自定义审核标准和打标规则，几百种标签可供选择。大大提高运营效率\n\n相关产品：视频内容分析VCA 视频内容审核VCR",
+    "bigImg": "https://bce.bdstatic.com/portal/img/solution/short_video/iphone-step3_c688f154.png"
+  },
+  {
+    "title": "Step.4 视频流畅播放",
+    "img": "https://bce.bdstatic.com/portal/img/solution/short_video/step-img4_72bf9778.png",
+    "p": "充足的带宽、存储资源，毫秒级响应时间，高吞吐能力，用户畅享流畅无卡顿的视频体验\n\n相关产品：音视频点播VOD",
+    "bigImg": "https://bce.bdstatic.com/portal/img/solution/short_video/iphone-step4_509f3308.png"
+  },
+  {
+    "title": "Step.5 精准触达用户，百度生态渠道更多品牌曝光",
+    "img": "https://bce.bdstatic.com/portal/img/solution/short_video/step-img5_21c41359.png",
+    "p": "利用百度领先的人工智能技术，结合对用户行为和画像的大数据分析，精准推荐用户感兴趣的视频，提高用户粘性。并借助百度生态渠道赢得更多品牌曝光 ",
+    "bigImg": "https://bce.bdstatic.com/portal/img/solution/short_video/iphone-step5_04cfad1c.png"
+  }
+]
